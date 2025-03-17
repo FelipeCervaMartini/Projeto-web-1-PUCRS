@@ -4,7 +4,7 @@ Cabeçalho:
   Aqui é exibido o nome do mercado, além de possuir uma seção de navegação para ir direto a pagina de seu interesse
 
 Corpo da página:
-  Aqui estão os produtos do mercado, divididos em categorias e cada produto tem sua descrição, preço e imagem ilustrativa
+  Aqui estão os produtos do mercado, divididos em categorias e cada produto tem sua descrição ao passar com o mouse em cima, preço e imagem ilustrativa
   Também tem os serviços de entrega e retirada, com descrição e valor
 
 Rodapé: 
